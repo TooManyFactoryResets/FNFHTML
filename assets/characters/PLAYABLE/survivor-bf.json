@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-102,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "survivor_boyfriend idle"
+		},
+		{
+			"offsets": [
+				-97,
+				-55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "survivor_boyfriend down"
+		},
+		{
+			"offsets": [
+				-115,
+				-65
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "survivor_boyfriend right"
+		},
+		{
+			"offsets": [
+				-107,
+				-49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "survivor_boyfriend up"
+		},
+		{
+			"offsets": [
+				292,
+				198
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "survivor_boyfriend shoot"
+		},
+		{
+			"offsets": [
+				-68,
+				-67
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "survivor_boyfriend left"
+		},
+		{
+			"offsets": [
+				-46,
+				-47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "survivor_boyfriend dodge"
+		},
+		{
+			"offsets": [
+				-118,
+				-47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hit",
+			"indices": [],
+			"name": "survivor_boyfriend hit"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PLAYABLE/survivor_boyfriend",
+	"position": [
+		70,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		60,
+		76,
+		155
+	],
+	"camera_position": [
+		50,
+		50
+	],
+	"sing_duration": 5.99999999999999,
+	"scale": 1.4
+}

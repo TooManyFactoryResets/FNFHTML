@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				268,
+				68
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "kids down"
+		},
+		{
+			"offsets": [
+				237,
+				305
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "kids up"
+		},
+		{
+			"offsets": [
+				24,
+				238
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "kids right"
+		},
+		{
+			"offsets": [
+				581,
+				78
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "kids left"
+		},
+		{
+			"offsets": [
+				260,
+				100
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "kids idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FNF/kids",
+	"position": [
+		180,
+		190
+	],
+	"healthicon": "pibspooky",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-390,
+		-160
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

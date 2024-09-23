@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Jake_HealthDrain.png">
+<SubTexture name="Jake_HealthDrain Jake Drain Idle0000" x="564" y="0" width="182" height="291" frameX="0" frameY="0" frameWidth="182" frameHeight="292" />
+<SubTexture name="Jake_HealthDrain Jake Drain Idle0001" x="564" y="0" width="182" height="291" frameX="0" frameY="0" frameWidth="182" frameHeight="292" />
+<SubTexture name="Jake_HealthDrain Jake Drain Idle0002" x="0" y="298" width="181" height="290" frameX="-1" frameY="0" frameWidth="182" frameHeight="292" />
+<SubTexture name="Jake_HealthDrain Jake Drain Idle0003" x="0" y="298" width="181" height="290" frameX="-1" frameY="0" frameWidth="182" frameHeight="292" />
+<SubTexture name="Jake_HealthDrain Jake Drain Leave0000" x="186" y="0" width="196" height="293" frameX="-13" frameY="0" frameWidth="297" frameHeight="355" />
+<SubTexture name="Jake_HealthDrain Jake Drain Leave0001" x="382" y="0" width="182" height="292" frameX="-30" frameY="0" frameWidth="297" frameHeight="355" />
+<SubTexture name="Jake_HealthDrain Jake Drain Leave0002" x="0" y="0" width="186" height="298" frameX="-71" frameY="-22" frameWidth="297" frameHeight="355" />
+<SubTexture name="Jake_HealthDrain Jake Drain Leave0003" x="181" y="298" width="297" height="205" frameX="0" frameY="-145" frameWidth="297" frameHeight="355" />
+<SubTexture name="Jake_HealthDrain Jake Drain Leave0004" x="0" y="588" width="288" height="150" frameX="-2" frameY="-204" frameWidth="297" frameHeight="355" />
+<SubTexture name="Jake_HealthDrain Jake Drain Start0000" x="0" y="588" width="288" height="150" frameX="-2" frameY="-204" frameWidth="297" frameHeight="355" />
+<SubTexture name="Jake_HealthDrain Jake Drain Start0001" x="181" y="298" width="297" height="205" frameX="0" frameY="-145" frameWidth="297" frameHeight="355" />
+<SubTexture name="Jake_HealthDrain Jake Drain Start0002" x="0" y="0" width="186" height="298" frameX="-71" frameY="-22" frameWidth="297" frameHeight="355" />
+<SubTexture name="Jake_HealthDrain Jake Drain Start0003" x="382" y="0" width="182" height="292" frameX="-30" frameY="0" frameWidth="297" frameHeight="355" />
+<SubTexture name="Jake_HealthDrain Jake Drain Start0004" x="186" y="0" width="196" height="293" frameX="-13" frameY="0" frameWidth="297" frameHeight="355" />
+</TextureAtlas>

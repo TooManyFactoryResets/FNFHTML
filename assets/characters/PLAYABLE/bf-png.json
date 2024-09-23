@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				170
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "divashka idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				128,
+				167
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "divashka right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				129,
+				206
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "divashka up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				142
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "divashka down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				148,
+				175
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "divashka left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PLAYABLE/divashka",
+	"position": [
+		535,
+		-330
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		120,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Jake_Hands.png">
+<SubTexture name="Jake_Hands Jake Mechanic Charge0000" x="607" y="122" width="262" height="121" frameX="-6" frameY="0" frameWidth="286" frameHeight="128" />
+<SubTexture name="Jake_Hands Jake Mechanic Charge0001" x="607" y="0" width="262" height="122" frameX="-6" frameY="0" frameWidth="286" frameHeight="128" />
+<SubTexture name="Jake_Hands Jake Mechanic Charge0002" x="807" y="835" width="272" height="83" frameX="0" frameY="-44" frameWidth="286" frameHeight="128" />
+<SubTexture name="Jake_Hands Jake Mechanic Charge0003" x="0" y="835" width="272" height="94" frameX="0" frameY="-33" frameWidth="286" frameHeight="128" />
+<SubTexture name="Jake_Hands Jake Mechanic Charge0004" x="531" y="835" width="276" height="92" frameX="-6" frameY="-30" frameWidth="286" frameHeight="128" />
+<SubTexture name="Jake_Hands Jake Mechanic Charge0005" x="531" y="835" width="276" height="92" frameX="-6" frameY="-30" frameWidth="286" frameHeight="128" />
+<SubTexture name="Jake_Hands Jake Mechanic Charge0006" x="0" y="634" width="276" height="102" frameX="-8" frameY="-16" frameWidth="286" frameHeight="128" />
+<SubTexture name="Jake_Hands Jake Mechanic Charge0007" x="0" y="634" width="276" height="102" frameX="-8" frameY="-16" frameWidth="286" frameHeight="128" />
+<SubTexture name="Jake_Hands Jake Mechanic Charge0008" x="276" y="634" width="283" height="101" frameX="-2" frameY="-16" frameWidth="286" frameHeight="128" />
+<SubTexture name="Jake_Hands Jake Mechanic Charge0009" x="276" y="634" width="283" height="101" frameX="-2" frameY="-16" frameWidth="286" frameHeight="128" />
+<SubTexture name="Jake_Hands Jake Mechanic Charged Idle0000" x="0" y="736" width="232" height="99" frameX="-17" frameY="-2" frameWidth="263" frameHeight="102" />
+<SubTexture name="Jake_Hands Jake Mechanic Charged Idle0001" x="0" y="736" width="232" height="99" frameX="-17" frameY="-2" frameWidth="263" frameHeight="102" />
+<SubTexture name="Jake_Hands Jake Mechanic Charged Idle0002" x="869" y="0" width="245" height="96" frameX="-9" frameY="-4" frameWidth="263" frameHeight="102" />
+<SubTexture name="Jake_Hands Jake Mechanic Charged Idle0003" x="869" y="0" width="245" height="96" frameX="-9" frameY="-4" frameWidth="263" frameHeight="102" />
+<SubTexture name="Jake_Hands Jake Mechanic Charged Idle0004" x="272" y="835" width="259" height="94" frameX="0" frameY="-4" frameWidth="263" frameHeight="102" />
+<SubTexture name="Jake_Hands Jake Mechanic Charged Idle0005" x="272" y="835" width="259" height="94" frameX="0" frameY="-4" frameWidth="263" frameHeight="102" />
+<SubTexture name="Jake_Hands Jake Mechanic Charged Idle0006" x="232" y="736" width="255" height="97" frameX="-7" frameY="0" frameWidth="263" frameHeight="102" />
+<SubTexture name="Jake_Hands Jake Mechanic Charged Idle0007" x="232" y="736" width="255" height="97" frameX="-7" frameY="0" frameWidth="263" frameHeight="102" />
+<SubTexture name="Jake_Hands Jake Mechanic Charged Idle0008" x="869" y="96" width="241" height="95" frameX="-16" frameY="0" frameWidth="263" frameHeight="102" />
+<SubTexture name="Jake_Hands Jake Mechanic Charged Idle0009" x="869" y="96" width="241" height="95" frameX="-16" frameY="0" frameWidth="263" frameHeight="102" />
+<SubTexture name="Jake_Hands Jake Mechanic Charged Idle0010" x="869" y="191" width="234" height="93" frameX="-19" frameY="-2" frameWidth="263" frameHeight="102" />
+<SubTexture name="Jake_Hands Jake Mechanic Charged Idle0011" x="869" y="191" width="234" height="93" frameX="-19" frameY="-2" frameWidth="263" frameHeight="102" />
+<SubTexture name="Jake_Hands Jake Mechanic Charged Idle0012" x="487" y="736" width="228" height="97" frameX="-20" frameY="-2" frameWidth="263" frameHeight="102" />
+<SubTexture name="Jake_Hands Jake Mechanic Charged Idle0013" x="487" y="736" width="228" height="97" frameX="-20" frameY="-2" frameWidth="263" frameHeight="102" />
+<SubTexture name="Jake_Hands Jake Mechanic Idle0000" x="233" y="398" width="233" height="124" frameX="0" frameY="-1" frameWidth="238" frameHeight="131" />
+<SubTexture name="Jake_Hands Jake Mechanic Idle0001" x="233" y="398" width="233" height="124" frameX="0" frameY="-1" frameWidth="238" frameHeight="131" />
+<SubTexture name="Jake_Hands Jake Mechanic Idle0002" x="234" y="248" width="234" height="129" frameX="-1" frameY="0" frameWidth="238" frameHeight="131" />
+<SubTexture name="Jake_Hands Jake Mechanic Idle0003" x="234" y="248" width="234" height="129" frameX="-1" frameY="0" frameWidth="238" frameHeight="131" />
+<SubTexture name="Jake_Hands Jake Mechanic Idle0004" x="0" y="398" width="233" height="127" frameX="-3" frameY="-3" frameWidth="238" frameHeight="131" />
+<SubTexture name="Jake_Hands Jake Mechanic Idle0005" x="0" y="398" width="233" height="127" frameX="-3" frameY="-3" frameWidth="238" frameHeight="131" />
+<SubTexture name="Jake_Hands Jake Mechanic Idle0006" x="607" y="243" width="230" height="120" frameX="-6" frameY="-8" frameWidth="238" frameHeight="131" />
+<SubTexture name="Jake_Hands Jake Mechanic Idle0007" x="607" y="243" width="230" height="120" frameX="-6" frameY="-8" frameWidth="238" frameHeight="131" />
+<SubTexture name="Jake_Hands Jake Mechanic Idle0008" x="607" y="363" width="230" height="110" frameX="-7" frameY="-12" frameWidth="238" frameHeight="131" />
+<SubTexture name="Jake_Hands Jake Mechanic Idle0009" x="607" y="363" width="230" height="110" frameX="-7" frameY="-12" frameWidth="238" frameHeight="131" />
+<SubTexture name="Jake_Hands Jake Mechanic Idle0010" x="0" y="525" width="230" height="109" frameX="-7" frameY="-14" frameWidth="238" frameHeight="131" />
+<SubTexture name="Jake_Hands Jake Mechanic Idle0011" x="0" y="525" width="230" height="109" frameX="-7" frameY="-14" frameWidth="238" frameHeight="131" />
+<SubTexture name="Jake_Hands Jake Mechanic Idle0012" x="230" y="525" width="221" height="108" frameX="-15" frameY="-12" frameWidth="238" frameHeight="131" />
+<SubTexture name="Jake_Hands Jake Mechanic Idle0013" x="230" y="525" width="221" height="108" frameX="-15" frameY="-12" frameWidth="238" frameHeight="131" />
+<SubTexture name="Jake_Hands Jake Mechanic Retreat0000" x="559" y="634" width="232" height="101" frameX="0" frameY="-55" frameWidth="245" frameHeight="156" />
+<SubTexture name="Jake_Hands Jake Mechanic Retreat0001" x="559" y="634" width="232" height="101" frameX="0" frameY="-55" frameWidth="245" frameHeight="156" />
+<SubTexture name="Jake_Hands Jake Mechanic Retreat0002" x="869" y="284" width="232" height="90" frameX="0" frameY="-61" frameWidth="245" frameHeight="156" />
+<SubTexture name="Jake_Hands Jake Mechanic Retreat0003" x="451" y="525" width="235" height="108" frameX="-9" frameY="-44" frameWidth="245" frameHeight="156" />
+<SubTexture name="Jake_Hands Jake Mechanic Retreat0004" x="0" y="248" width="234" height="150" frameX="-5" frameY="0" frameWidth="245" frameHeight="156" />
+<SubTexture name="Jake_Hands Jake Mechanic Spawn0000" x="913" y="374" width="17" height="9" frameX="-40" frameY="-230" frameWidth="218" frameHeight="252" />
+<SubTexture name="Jake_Hands Jake Mechanic Spawn0001" x="869" y="374" width="44" height="14" frameX="-27" frameY="-229" frameWidth="218" frameHeight="252" />
+<SubTexture name="Jake_Hands Jake Mechanic Spawn0002" x="869" y="374" width="44" height="14" frameX="-27" frameY="-229" frameWidth="218" frameHeight="252" />
+<SubTexture name="Jake_Hands Jake Mechanic Spawn0003" x="290" y="0" width="102" height="183" frameX="-2" frameY="-68" frameWidth="218" frameHeight="252" />
+<SubTexture name="Jake_Hands Jake Mechanic Spawn0004" x="290" y="0" width="102" height="183" frameX="-2" frameY="-68" frameWidth="218" frameHeight="252" />
+<SubTexture name="Jake_Hands Jake Mechanic Spawn0005" x="0" y="0" width="108" height="248" frameX="0" frameY="0" frameWidth="218" frameHeight="252" />
+<SubTexture name="Jake_Hands Jake Mechanic Spawn0006" x="108" y="0" width="182" height="231" frameX="-7" frameY="-17" frameWidth="218" frameHeight="252" />
+<SubTexture name="Jake_Hands Jake Mechanic Spawn0007" x="392" y="0" width="215" height="151" frameX="-3" frameY="-97" frameWidth="218" frameHeight="252" />
+<SubTexture name="Jake_Hands Jake Mechanic Spawn0008" x="392" y="0" width="215" height="151" frameX="-3" frameY="-97" frameWidth="218" frameHeight="252" />
+</TextureAtlas>

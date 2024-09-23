@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Jake_Mechanic2.png">
+<SubTexture name="Jake_Mechanic2 Jake Mechanic2 Charge0000" x="1282" y="594" width="137" height="117" frameX="-389" frameY="-358" frameWidth="526" frameHeight="492" />
+<SubTexture name="Jake_Mechanic2 Jake Mechanic2 Charge0001" x="1034" y="594" width="248" height="122" frameX="-278" frameY="-357" frameWidth="526" frameHeight="492" />
+<SubTexture name="Jake_Mechanic2 Jake Mechanic2 Charge0002" x="1034" y="395" width="488" height="199" frameX="-32" frameY="-284" frameWidth="526" frameHeight="492" />
+<SubTexture name="Jake_Mechanic2 Jake Mechanic2 Charge0003" x="1034" y="395" width="488" height="199" frameX="-32" frameY="-284" frameWidth="526" frameHeight="492" />
+<SubTexture name="Jake_Mechanic2 Jake Mechanic2 Charge0004" x="1034" y="0" width="501" height="395" frameX="-18" frameY="-86" frameWidth="526" frameHeight="492" />
+<SubTexture name="Jake_Mechanic2 Jake Mechanic2 Charge0005" x="1034" y="0" width="501" height="395" frameX="-18" frameY="-86" frameWidth="526" frameHeight="492" />
+<SubTexture name="Jake_Mechanic2 Jake Mechanic2 Charge0006" x="518" y="492" width="513" height="483" frameX="-5" frameY="-6" frameWidth="526" frameHeight="492" />
+<SubTexture name="Jake_Mechanic2 Jake Mechanic2 Charge0007" x="518" y="492" width="513" height="483" frameX="-5" frameY="-6" frameWidth="526" frameHeight="492" />
+<SubTexture name="Jake_Mechanic2 Jake Mechanic2 Charge0008" x="0" y="0" width="517" height="492" frameX="0" frameY="0" frameWidth="526" frameHeight="492" />
+<SubTexture name="Jake_Mechanic2 Jake Mechanic2 Charge0009" x="0" y="0" width="517" height="492" frameX="0" frameY="0" frameWidth="526" frameHeight="492" />
+<SubTexture name="Jake_Mechanic2 Jake Mechanic2 Idle0000" x="517" y="0" width="517" height="492" frameX="0" frameY="0" frameWidth="518" frameHeight="492" />
+<SubTexture name="Jake_Mechanic2 Jake Mechanic2 Idle0001" x="517" y="0" width="517" height="492" frameX="0" frameY="0" frameWidth="518" frameHeight="492" />
+<SubTexture name="Jake_Mechanic2 Jake Mechanic2 Idle0002" x="0" y="492" width="518" height="492" frameX="0" frameY="0" frameWidth="518" frameHeight="492" />
+<SubTexture name="Jake_Mechanic2 Jake Mechanic2 Idle0003" x="0" y="492" width="518" height="492" frameX="0" frameY="0" frameWidth="518" frameHeight="492" />
+</TextureAtlas>
